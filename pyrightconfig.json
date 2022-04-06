@@ -1,0 +1,41 @@
+{
+    "include": [
+        "crazy_evonh"
+    ],
+
+    "exclude": [
+        "crazy_evonh/test",
+        "crazy_evonh/data",
+        "**/__pycache__",
+        "build",
+	"docs",
+	"examples",
+	".eggs",
+	".git",
+	".github",
+	"versioneer.py"
+
+    ],
+    "ignore": [
+        "crazy_evonh/test",
+        "crazy_evonh/data",
+        "**/__pycache__",
+        "build",
+	"docs",
+	"examples",
+	".eggs",
+	".git",
+	".github",
+	"versioneer.py"
+
+    ],
+
+
+    "venvPath": "/Users/jburgess/.environs",
+    "venv": "crazy_evonh",
+
+    "reportMissingImports": true,
+    "reportMissingTypeStubs": false,
+
+
+}

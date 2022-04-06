@@ -1,0 +1,3 @@
+ignore:
+  - "crazy_evonh/test"
+  - "crazy_evonh/_version.py"
